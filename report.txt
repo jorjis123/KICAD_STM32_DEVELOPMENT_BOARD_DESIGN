@@ -1,0 +1,1 @@
+Change symbol U2 from 'Abrar_Lib:MP2359DJ-LF-Z' to 'Abrar_Lib:MP2359DJ-LF-Z': OK
